@@ -1,0 +1,35 @@
+[2026-06-08 14:53:47.077] [INIT].... → Crawl4AI 0.8.9 
+[2026-06-08 14:53:53.251] [ERROR]... × Error updating image dimensions: Page.evaluate: Execution context was destroyed, most likely because of a navigation 
+[2026-06-08 14:53:53.319] [FETCH]... ↓ https://baomoi.com/sao-viet-tieu-tan-su-nghiep-vi-lien-quan-den-ma-tuy-c55216942.epi                 | ✓ | ⏱: 6.23s 
+[2026-06-08 14:53:53.343] [SCRAPE].. ◆ https://baomoi.com/sao-viet-tieu-tan-su-nghiep-vi-lien-quan-den-ma-tuy-c55216942.epi                 | ✓ | ⏱: 0.02s 
+[2026-06-08 14:53:53.354] [COMPLETE] ● https://baomoi.com/sao-viet-tieu-tan-su-nghiep-vi-lien-quan-den-ma-tuy-c55216942.epi                 | ✓ | ⏱: 6.27s 
+[2026-06-08 14:54:33.428] [INIT].... → Crawl4AI 0.8.9 
+[2026-06-08 14:54:36.292] [ERROR]... × Error updating image dimensions: Page.evaluate: Execution context was destroyed, most likely because of a navigation 
+[2026-06-08 14:54:36.360] [FETCH]... ↓ https://baomoi.com/sao-viet-tieu-tan-su-nghiep-vi-lien-quan-den-ma-tuy-c55216942.epi                 | ✓ | ⏱: 2.90s 
+[2026-06-08 14:54:36.381] [SCRAPE].. ◆ https://baomoi.com/sao-viet-tieu-tan-su-nghiep-vi-lien-quan-den-ma-tuy-c55216942.epi                 | ✓ | ⏱: 0.02s 
+[2026-06-08 14:54:36.389] [COMPLETE] ● https://baomoi.com/sao-viet-tieu-tan-su-nghiep-vi-lien-quan-den-ma-tuy-c55216942.epi                 | ✓ | ⏱: 2.94s 
+[2026-06-08 14:55:51.912] [INIT].... → Crawl4AI 0.8.9 
+[2026-06-08 14:55:56.411] [ERROR]... × Error updating image dimensions: Page.evaluate: Execution context was destroyed, most likely because of a navigation 
+[2026-06-08 14:55:56.481] [FETCH]... ↓ https://baomoi.com/sao-viet-tieu-tan-su-nghiep-vi-lien-quan-den-ma-tuy-c55216942.epi                 | ✓ | ⏱: 4.56s 
+[2026-06-08 14:55:56.505] [SCRAPE].. ◆ https://baomoi.com/sao-viet-tieu-tan-su-nghiep-vi-lien-quan-den-ma-tuy-c55216942.epi                 | ✓ | ⏱: 0.02s 
+[2026-06-08 14:55:56.514] [COMPLETE] ● https://baomoi.com/sao-viet-tieu-tan-su-nghiep-vi-lien-quan-den-ma-tuy-c55216942.epi                 | ✓ | ⏱: 4.59s 
+[2026-06-08 14:55:57.222] [INIT].... → Crawl4AI 0.8.9 
+[2026-06-08 14:55:59.260] [FETCH]... ↓ https://vietnamnet.vn/sao-viet-bi-bat-ngoi-tu-mat-danh-tieng-vi-chat-cam-2513746.html                | ✓ | ⏱: 2.03s 
+[2026-06-08 14:55:59.303] [SCRAPE].. ◆ https://vietnamnet.vn/sao-viet-bi-bat-ngoi-tu-mat-danh-tieng-vi-chat-cam-2513746.html                | ✓ | ⏱: 0.04s 
+[2026-06-08 14:55:59.310] [COMPLETE] ● https://vietnamnet.vn/sao-viet-bi-bat-ngoi-tu-mat-danh-tieng-vi-chat-cam-2513746.html                | ✓ | ⏱: 2.08s 
+[2026-06-08 14:56:00.020] [INIT].... → Crawl4AI 0.8.9 
+[2026-06-08 14:56:25.467] [FETCH]... ↓ https://vov.vn/giai-tri/chua-day-1-thang-3-nghe-...i-lien-quan-ma-tuy-gay-chan-dong-post1293496.vov  | ✓ | ⏱: 25.44s 
+[2026-06-08 14:56:25.530] [SCRAPE].. ◆ https://vov.vn/giai-tri/chua-day-1-thang-3-nghe-...i-lien-quan-ma-tuy-gay-chan-dong-post1293496.vov  | ✓ | ⏱: 0.06s 
+[2026-06-08 14:56:25.540] [COMPLETE] ● https://vov.vn/giai-tri/chua-day-1-thang-3-nghe-...i-lien-quan-ma-tuy-gay-chan-dong-post1293496.vov  | ✓ | ⏱: 25.51s 
+[2026-06-08 14:56:26.302] [INIT].... → Crawl4AI 0.8.9 
+[2026-06-08 14:56:28.373] [FETCH]... ↓ https://thanhnien.vn/ca-si-long-nhat-bi-bat-show...n-tiep-chan-dong-vi-ma-tuy-18526052013032001.htm  | ✓ | ⏱: 2.06s 
+[2026-06-08 14:56:28.408] [SCRAPE].. ◆ https://thanhnien.vn/ca-si-long-nhat-bi-bat-show...n-tiep-chan-dong-vi-ma-tuy-18526052013032001.htm  | ✓ | ⏱: 0.03s 
+[2026-06-08 14:56:28.431] [COMPLETE] ● https://thanhnien.vn/ca-si-long-nhat-bi-bat-show...n-tiep-chan-dong-vi-ma-tuy-18526052013032001.htm  | ✓ | ⏱: 2.12s 
+[2026-06-08 14:56:29.155] [INIT].... → Crawl4AI 0.8.9 
+[2026-06-08 14:56:43.481] [FETCH]... ↓ https://cuoi.tuoitre.vn/loat-nghe-si-viet-tieu-tan-su-nghiep-vi-ma-tuy-20241114142620463.htm         | ✓ | ⏱: 14.32s 
+[2026-06-08 14:56:43.514] [SCRAPE].. ◆ https://cuoi.tuoitre.vn/loat-nghe-si-viet-tieu-tan-su-nghiep-vi-ma-tuy-20241114142620463.htm         | ✓ | ⏱: 0.03s 
+[2026-06-08 14:56:43.521] [COMPLETE] ● https://cuoi.tuoitre.vn/loat-nghe-si-viet-tieu-tan-su-nghiep-vi-ma-tuy-20241114142620463.htm         | ✓ | ⏱: 14.36s 
+[2026-06-08 14:56:44.240] [INIT].... → Crawl4AI 0.8.9 
+[2026-06-08 14:57:00.532] [FETCH]... ↓ https://dantri.com.vn/phap-luat/dien-vien-hai-hu...ai-su-dung-ma-tuy-do-to-mo-20230428133813927.htm  | ✓ | ⏱: 16.28s 
+[2026-06-08 14:57:00.580] [SCRAPE].. ◆ https://dantri.com.vn/phap-luat/dien-vien-hai-hu...ai-su-dung-ma-tuy-do-to-mo-20230428133813927.htm  | ✓ | ⏱: 0.05s 
+[2026-06-08 14:57:00.601] [COMPLETE] ● https://dantri.com.vn/phap-luat/dien-vien-hai-hu...ai-su-dung-ma-tuy-do-to-mo-20230428133813927.htm  | ✓ | ⏱: 16.35s 
